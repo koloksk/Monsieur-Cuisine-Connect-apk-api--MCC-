@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view.PresetLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/main_interface_background_big_px"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="1">
+    <include
+        android:id="@+id/preset_knob_layout"
+        layout="@layout/preset_knob_layout"/>
+    <ImageView
+        android:id="@+id/play_iv"
+        android:clickable="true"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="236dp"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:layout_alignTop="@+id/stop_iv"
+        android:alpha="1"
+        android:layout_marginEnd="150dp"
+        android:layout_alignParentEnd="true"
+        app:srcCompat="@drawable/preset_play_button"/>
+</view.PresetLayout>

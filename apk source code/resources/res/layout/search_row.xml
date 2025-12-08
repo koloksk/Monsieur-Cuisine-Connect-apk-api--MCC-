@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_row_container_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="46dp">
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_small_middle"
+        android:textColor="@color/text_primary"
+        android:gravity="center_vertical"
+        android:id="@+id/textViewItem"
+        android:background="@drawable/selector_recipe_vertical_list_item"
+        android:padding="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"/>
+</RelativeLayout>

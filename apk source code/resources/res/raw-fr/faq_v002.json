@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Comment bien insérer le bol mixeur et placer le couvercle ?",
+    "content": "Pour une meilleure compréhension, reportez-vous à la rubrique « Paramètres » du tutoriel. (Voir aussi le mode d'emploi, chapitre « Utilisation du bol mixeur » -> Mettre le bol mixeur en place et Mettre en place le couvercle du bol mixeur.)"
+  },
+  {
+    "title": "Où trouver les programmes automatiques Malaxer, Cuisson vapeur et Saisir ?",
+    "content": "Appuyez sur le symbole Programmes automatiques à l'écran. Vous y trouverez tous les programmes automatiques. Pour une meilleure compréhension, reportez-vous à la rubrique « Paramètres » du tutoriel. "
+  },
+  {
+    "title": "Comment fonctionne la balance ?",
+    "content": "Pour une meilleure compréhension, reportez-vous à la rubrique « Paramètres » du tutoriel. (Voir aussi le mode d'emploi au chapitre « Balance » -> Peser facilement et Peser avec la fonction de tare.)"
+  },
+  {
+    "title": "Pourquoi le couvercle du récipient de mélange doit-il être fermé hermétiquement et le bol mixeur bien mis en place ?",
+    "content": "La sécurité d'abord ! Le couvercle du bol mixeur doit être hermétiquement fermé afin qu'aucun liquide chaud ne puisse s'échapper pendant l'opération. Risque de brûlure ! Si le couvercle n'est pas correctement verrouillé, un avertissement apparaît à l'écran et l'appareil ne peut pas démarrer ou interrompt la préparation."
+  },
+  {
+    "title": "Pourquoi le bol mixeur ne s'insère-t-il pas correctement ?",
+    "content": "Vérifiez que le bol mixeur est correctement placé. Le symbole du bol mixeur doit être orienté vers l'avant. (Voir le mode d'emploi au chapitre « Utiliser le bol mixeur » -> Mettre le bol mixeur en place.) Les roues dentées placées sous le bol mixeur doivent s'insérer dans les logements prévues à cet effet."
+  },
+  {
+    "title": "Pourquoi l'appareil ne s'allume-t-il pas ?",
+    "content": "Vérifiez que la fiche secteur est correctement branchée dans la prise de courant murale. Appuyez ensuite sur l'interrupteur MARCHE/ARRÊT sur le côté droit de l'appareil."
+  },
+  {
+    "title": "Pourquoi ne puis-je pas régler la vitesse à un niveau supérieur à 3 ?",
+    "content": "Si la température programmée est supérieure àe 37 °C, la vitesse ne peut être réglée qu'au niveau 3."
+  },
+  {
+    "title": "Pourquoi puis-je interrompre le processus en appuyant sur la touche MARCHE/ARRÊT ?",
+    "content": "Grâce à cette fonction, vous pouvez par exemple ajouter d'autres ingrédients sans interrompre le programme automatique ou la fonction programmée. "
+  },
+  {
+    "title": "Comment nettoyer le couvercle lorsqu'il est taché ?",
+    "content": "Le couvercle peut être taché lors de la transformation d'aliments très colorés comme les carottes, le brocoli, le potiron, le curry, le curcuma, etc. Il ne s'agit pas d'un défaut matériel et cette coloration est inoffensive pour la santé.\nPour éviter la coloration du couvercle, il est recommandé de frotter légèrement l'intérieur avec de l'huile. Si le couvercle est déjà coloré, il est préférable de le frotter avec de l'huile avant de le nettoyer, car de nombreux colorants naturels sont liposolubles. En cas de coloration intense, il est conseillé de placer le couvercle au soleil pendant un certain temps. La coloration s'estompe avec le temps."
+  },
+  {
+    "title": "Pourquoi une odeur désagréable émane-t-elle de l'appareil ?",
+    "content": "Si l'action de l'appareil est intense, par exemple lors de la préparation d'une pâte très épaisse, la chaleur dégagée par le moteur génère une odeur. Il n' y a pas de quoi s'inquiéter, l'odeur est inoffensive ! Laissez l'appareil à l'arrêt pendant environ 30 minutes avant de poursuivre votre préparation."
+  },
+  {
+    "title": "Pourquoi le moteur tourne-t-il parfois de façon irrégulière ?",
+    "content": "Afin que le mélange s'effectue de façon optimale, le moteur tourne de façon irrégulière aux vitesses inférieures. C'est le cas pour les programmes automatiques. En cas de surcharge, laissez l'appareil à l'arrêt pendant environ 30 minutes avant de poursuivre votre préparation. "
+  },
+  {
+    "title": "Pourquoi du liquide s'échappe-t-il de l'appareil pendant son utilisation ?",
+    "content": "Vérifiez que le couvercle est bien fermé. Si le joint du couvercle n'est pas inséré sous la lame, le liquide peut fuir. Insérez le joint et vérifiez qu'il est bien en place. Les joints endommagés doivent être remplacés. L'appareil ne doit pas être utilisé avant ce remplacement !"
+  },
+  {
+    "title": "Comment éteindre l'appareil ?",
+    "content": "Pour débrancher complètement l'appareil de l'alimentation électrique, appuyez sur l'interrupteur MARCHE/ARRÊT situé sur le côté droit à l'arrière de l'appareil. Pour débrancher l'appareil du secteur, débranchez le cordon d'alimentation de la prise murale."
+  },
+  {
+    "title": "Pourquoi mon écran est-il éteint/noir après quelques minutes ?",
+    "content": "La connexion de Monsieur Cuisine peut être réactivée en appuyant simplement sur le bouton."
+  },
+  {
+    "title": "Comment puis-je sortir mon appareil du mode veille ? (Comment « réveiller » mon appareil ?)",
+    "content": "La connexion de Monsieur Cuisine peut être réactivée en appuyant simplement sur le bouton."
+  },
+  {
+    "title": "Pourquoi le programme Cuisson vapeur ne fonctionne-t-elle pas?",
+    "content": "Vérifiez que le panier vapeur est correctement verrouillé et que la fonction Cuisson vapeur est activée. La sélection s'effectue par le programme de base/automatique et démarre en appuyant sur la touche MARCHE/ARRÊT. (Voir  le mode d'emploi au chapitre « Cuisson à la vapeur »). Tout d'abord, un temps de préchauffage de 10 minutes est programmé pour que l'appareil atteigne la température souhaitée. Ce n'est qu'alors que le processus de cuisson à la vapeur peut commencer. Vérifiez qu'il y a suffisamment de liquide dans le bol mixeur. "
+  },
+  {
+    "title": "Comment utiliser la fonction Turbo ?",
+    "content": "Cette fonction ne peut être activée qu'en maintenant le symbole TURBO enfoncé. Appuyez sur le symbole TURBO et maintenez-le enfoncé pendant quelques secondes. Dès que vous relâchez le symbole, l'appareil s'arrête. Répétez cette procédure si la consistance souhaitée n' a pas encore été atteinte."
+  },
+  {
+    "title": "Pourquoi la fonction Turbo ne fonctionne-t-elle pas?",
+    "content": "La fonction TURBO est activée uniquement : - si l'appareil a déjà été démarré ; - si aucun programme automatique n'est sélectionné ; - si la température des aliments est inférieure à 60 °C."
+  },
+  {
+    "title": "Quelles pièces de l'appareil peuvent passer au lave-vaisselle ?",
+    "content": "Hormis l'appareil de base, toutes les pièces sont lavables au lave-vaisselle. Retirez toujours le couteau hachoir du bol mixeur et enlevez les joints. Placez le tout séparément dans le lave-vaisselle."
+  },
+  {
+    "title": "Quand un redémarrage est-il nécessaire ?",
+    "content": "Si votre appareil est allumé et ne réagit pas ou si aucun réglage ne peut être effectué, un redémarrage est nécessaire. Pour ce faire, mettez l'interrupteur MARCHE/ARRÊT du côté droit de l'appareil sur 0 et attendez 30 secondes. Remettre ensuite l'interrupteur MARCHE/ARRÊT sur I pour mettre l'appareil sous tension."
+  },
+  {
+    "title": "Pourquoi dois-je connecter mon appareil au rwi-fi ?",
+    "content": "La connexion au wi-fi n'est pas obligatoire. Cependant, avec une connexion wi-fi, vous avez accès à toutes nos autres recettes de Monsieur Cuisine Connect."
+  },
+  {
+    "title": "Je n'ai pas de connexion wi-fi Pourquoi ?",
+    "content": "Vérifiez si votre routeur wi-fi est allumé, envoie un signal et si les appareils sont raccordés. (Voir le chapitre « Établissement d'une connexion wi-fi dysfonctionnements, causes et solutions » de la notice d'utilisation). Vérifiez les réglages de l'appareil. "
+  },
+  {
+    "title": "Comment connecter l'appareil au wi-fi",
+    "content": "Veuillez suivre les instructions du chapitre « Comment configurer une connexion wi-fi » dans le mode d'emploi."
+  },
+  {
+    "title": "Que se passe-t-il si je ne connecte pas mon appareil au wi-fi ? Vais-je subir des inconvénients si mon appareil n'est pas connecté au wi-fi ?",
+    "content": "La connexion de Monsieur Cuisine Connect fonctionne parfaitement même sans connexion wi-fi. Vous avez accès à toutes les recettes stockées dans l'appareil. "
+  },
+  {
+    "title": "Comment puis-je obtenir de nouvelles recettes sur mon appareil ?",
+    "content": "Lorsque vous connectez votre appareil au wi-fi, vous avez accès à toutes nos recettes pour Monsieur Cuisine Connect."
+  },
+  {
+    "title": "Pourquoi autoriser les mises à jour ?",
+    "content": "Des mises à jour sont nécessaires pour maintenir l'appareil à jour afin que vous puissiez bénéficier de toutes les améliorations et rectificatifs. "
+  },
+  {
+    "title": "Quel avantage ai-je à connecter mon appareil avec mon compte utilisateur ?",
+    "content": "Lorsque vous connectez votre appareil via votre compte utilisateur, vous pouvez, par exemple, établir votre liste de recettes favorites (Favoris) et en ajouter d'autres."
+  },
+  {
+    "title": "Quelles abréviations sont utilisées dans l'appareil ?",
+    "content": "c.c.\tcuillerée à café\nc.s.\tcuillerée à soupe\ncm\tcentimètres\ng\tgrammes\nG\tglucides\nkcal\tkilocalories\nkJ\tkilojoules\nL\tlipides\nl\tlitres\nml\tmillilitres\nP\tprotéines\ns.\tsecondes"
+  }
+]

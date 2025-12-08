@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="countries">
+        <item>Frankreich</item>
+        <item>Deutschland</item>
+    </array>
+    <array name="supported_languages">
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>en</item>
+        <item>nl</item>
+    </array>
+    <array name="titles">
+        <item>Herr</item>
+        <item>Frau</item>
+    </array>
+</resources>

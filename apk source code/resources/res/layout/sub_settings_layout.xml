@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sub_settings_container_rl"
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/sub_settings_sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/rows_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp">
+            <include layout="@layout/wifi_row"/>
+            <include layout="@layout/sound_row"/>
+            <include layout="@layout/about_row"/>
+            <include layout="@layout/faq_row"/>
+            <include layout="@layout/terms_row"/>
+            <include layout="@layout/terms_of_use_row"/>
+            <include layout="@layout/data_privacy_options_row"/>
+            <include layout="@layout/language_row"/>
+            <include layout="@layout/show_labels_row"/>
+            <include layout="@layout/factory_reset_row"/>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+    <view.QuestionDialogView
+        android:id="@+id/data_privacy_policy_question"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bodyText="@string/firstlaunch_privacy_body"
+        app:buttonOneImage="@drawable/dialog_decline"
+        app:buttonOneText="@string/cancel"
+        app:buttonTwoEnabled="false"
+        app:buttonTwoImage="@drawable/dialog_accept"
+        app:buttonTwoText="@string/next"
+        app:checkboxText="@string/firstlaunch_privacy_checkbox_text"
+        app:checkboxVisible="true"
+        app:titleText="@string/firstlaunch_privacy_title"/>
+    <view.QuestionDialogView
+        android:id="@+id/factory_reset_question"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bodyText="@string/factory_reset_text"
+        app:buttonOneImage="@drawable/dialog_decline"
+        app:buttonOneText="@string/cancel"
+        app:buttonTwoImage="@drawable/dialog_accept"
+        app:buttonTwoText="@string/factory_reset_small"
+        app:checkboxVisible="false"
+        app:titleText="@string/factory_reset_short"/>
+    <view.QuestionDialogView
+        android:id="@+id/data_privacy_question_dialog"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bodyText="@string/question_hoyer_transfer"
+        app:buttonOneImage="@drawable/dialog_decline"
+        app:buttonOneText="@string/no_subscribe"
+        app:buttonTwoImage="@drawable/dialog_accept"
+        app:buttonTwoText="@string/subscribe"
+        app:checkboxVisible="false"/>
+    <view.QuestionDialogView
+        android:id="@+id/usage_log_dialog"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bodyText=""
+        app:buttonOneImage="@drawable/dialog_decline"
+        app:buttonOneText=""
+        app:buttonTwoImage="@drawable/dialog_accept"
+        app:buttonTwoText="@string/ok"
+        app:checkboxVisible="false"
+        app:titleText="@string/usage_data"/>
+    <view.QuestionDialogView
+        android:id="@+id/confirm_change_locale"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bodyText=""
+        app:buttonOneImage="@drawable/dialog_decline"
+        app:buttonOneText="@string/no"
+        app:buttonTwoImage="@drawable/dialog_accept"
+        app:buttonTwoText="@string/yes"
+        app:checkboxVisible="false"
+        app:titleText="@string/are_you_sure"/>
+</RelativeLayout>

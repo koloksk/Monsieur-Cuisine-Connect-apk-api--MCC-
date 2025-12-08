@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/switch_thumb_size"
+        android:width="@dimen/switch_thumb_size"
+        android:drawable="@drawable/asset_switch_thumb"/>
+</layer-list>

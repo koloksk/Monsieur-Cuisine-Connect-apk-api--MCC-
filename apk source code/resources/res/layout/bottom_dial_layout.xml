@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:id="@+id/bottom_dial_rl"
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_size_knob_small"
+        android:textColor="@color/text_light_grey"
+        android:id="@+id/bottom_dial_minutes_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_size_knob_small"
+        android:textColor="@color/text_light_grey"
+        android:id="@+id/bottom_dial_colon_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""/>
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_size_knob_small"
+        android:textColor="@color/text_light_grey"
+        android:id="@+id/bottom_dial_seconds_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

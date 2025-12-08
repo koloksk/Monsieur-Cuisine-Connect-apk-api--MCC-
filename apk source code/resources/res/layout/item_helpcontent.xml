@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="10dp"
+    card_view:cardCornerRadius="10dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/item_helpcontent_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/test_recipe_image_22978"
+            android:scaleType="centerCrop"/>
+        <TextView
+            android:textSize="@dimen/font_large"
+            android:textColor="@color/text_white"
+            android:id="@+id/item_helpcontent_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

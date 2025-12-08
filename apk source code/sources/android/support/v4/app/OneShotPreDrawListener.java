@@ -1,0 +1,50 @@
+package android.support.v4.app;
+
+import android.view.View;
+import android.view.ViewTreeObserver;
+
+/* loaded from: classes.dex */
+public class OneShotPreDrawListener implements ViewTreeObserver.OnPreDrawListener, View.OnAttachStateChangeListener {
+    public final Runnable mRunnable;
+    public final View mView;
+    public ViewTreeObserver mViewTreeObserver;
+
+    public OneShotPreDrawListener(View view2, Runnable runnable) {
+        this.mView = view2;
+        this.mViewTreeObserver = view2.getViewTreeObserver();
+        this.mRunnable = runnable;
+    }
+
+    public static OneShotPreDrawListener add(View view2, Runnable runnable) {
+        OneShotPreDrawListener oneShotPreDrawListener = new OneShotPreDrawListener(view2, runnable);
+        view2.getViewTreeObserver().addOnPreDrawListener(oneShotPreDrawListener);
+        view2.addOnAttachStateChangeListener(oneShotPreDrawListener);
+        return oneShotPreDrawListener;
+    }
+
+    @Override // android.view.ViewTreeObserver.OnPreDrawListener
+    public boolean onPreDraw() {
+        removeListener();
+        this.mRunnable.run();
+        return true;
+    }
+
+    @Override // android.view.View.OnAttachStateChangeListener
+    public void onViewAttachedToWindow(View view2) {
+        this.mViewTreeObserver = view2.getViewTreeObserver();
+    }
+
+    @Override // android.view.View.OnAttachStateChangeListener
+    public void onViewDetachedFromWindow(View view2) {
+        removeListener();
+    }
+
+    public void removeListener() {
+        if (this.mViewTreeObserver.isAlive()) {
+            this.mViewTreeObserver.removeOnPreDrawListener(this);
+        } else {
+            this.mView.getViewTreeObserver().removeOnPreDrawListener(this);
+        }
+        this.mView.removeOnAttachStateChangeListener(this);
+    }
+}

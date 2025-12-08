@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/data_privacy_root_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp">
+    <RelativeLayout
+        android:id="@+id/left_row"
+        style="@style/settings_left_row">
+        <ImageView
+            android:src="@drawable/asset_newsletter_icon"
+            style="@style/settings_left_icon"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/middle_row"
+        style="@style/settings_middle_row">
+        <view.QuicksandTextView
+            android:id="@+id/what_tv"
+            android:text="@string/consent_settings_header"
+            style="@style/settings_middle_row_tv"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/right_row"
+        android:visibility="gone"
+        android:layout_height="50dp"
+        android:weightSum="7"
+        style="@style/settings_right_row"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/right_row"
+        android:layout_toEndOf="@+id/middle_row">
+        <include layout="@layout/data_privacy_setting_row"/>
+    </LinearLayout>
+</RelativeLayout>

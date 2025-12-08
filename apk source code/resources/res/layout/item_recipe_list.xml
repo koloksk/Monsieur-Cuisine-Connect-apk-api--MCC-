@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:id="@+id/recipe_list_item"
+    android:background="@drawable/selector_recipe_vertical_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="43dp">
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_large_middle"
+        android:textColor="@color/text_primary"
+        android:ellipsize="end"
+        android:id="@+id/recipe_list_item_name"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"/>
+</RelativeLayout>

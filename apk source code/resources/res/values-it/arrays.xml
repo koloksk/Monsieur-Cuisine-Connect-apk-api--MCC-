@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="countries">
+        <item>Germania</item>
+        <item>Austria</item>
+        <item>Svizzera</item>
+    </array>
+    <array name="titles">
+        <item>Signor</item>
+        <item>Signora</item>
+    </array>
+</resources>

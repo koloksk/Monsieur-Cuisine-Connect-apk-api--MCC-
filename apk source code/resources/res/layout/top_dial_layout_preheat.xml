@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/knob_time_rl"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_size_knob_small"
+        android:textColor="@color/divider"
+        android:id="@+id/knob_colon_tv"
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/preheat"
+        android:layout_centerHorizontal="true"/>
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_size_knob_smaller"
+        android:textColor="@color/accent_dark"
+        android:gravity="top"
+        android:id="@+id/knob_skip_tv"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/skip_lowercase"
+        android:layout_below="@+id/knob_colon_tv"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view.QuicksandTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="@dimen/dialog_text_small"
+    android:textColor="@color/dialog_text_color"
+    android:gravity="center"
+    android:id="@+id/title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/dialog_error_title_default"
+    android:layout_centerHorizontal="true"/>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/terms_root_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="12dp"
+    android:layout_marginBottom="36dp">
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/terms_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/right_row"
+            android:layout_marginStart="22dp"
+            android:layout_marginEnd="55dp"
+            style="@style/settings_full_container_row">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asset_017_shadow_small"
+                android:layout_alignParentTop="true"/>
+            <view.QuicksandTextView
+                android:textSize="@dimen/text_middle"
+                android:textColor="@android:color/black"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/terms_row_content_tv"
+                android:background="@drawable/shape_settings_rectangle_rounded_bottom"
+                android:padding="16dp"
+                style="@style/settings_html_row_tv"/>
+        </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+</RelativeLayout>

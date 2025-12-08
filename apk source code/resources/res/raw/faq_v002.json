@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Wie setze ich den Topf ein und schließe den Deckel richtig?",
+    "content": "Für ein besseres Verständnis finden Sie zu diesem Thema eine Anleitung unter 'Einstellungen' bei den Tutorials.\n(Siehe auch Bedienungsanleitung Mixbehälter verwenden -> Mixbehälter einsetzen und Deckel des Mixbehälters aufsetzten.)"
+  },
+  {
+    "title": "Wo finde ich die Automatikprogramme Teigkneten, Dampfgaren und Anbraten?",
+    "content": "Betätigen Sie das Symbol für Automatikprogramme im Bildschirm. Dort finden Sie alle Automatikprogramme.\nFür ein besseres Verständnis finden Sie zu diesem Thema eine Anleitung unter 'Einstellungen' bei den Tutorials."
+  },
+  {
+    "title": "Wie funktioniert die Waage?",
+    "content": "Für ein besseres Verständnis finden Sie zu diesem Thema eine Anleitung unter 'Einstellungen' bei den Tutorials.\n(Siehe auch Bedienungsanleitung Waage -> Einfaches Wiegen und Wiegen mit der Tara-Funktion.)"
+  },
+  {
+    "title": "Warum muss der Deckel des Mixbehälters fest verschlossen und der Messbecher aufgesetzt werden?",
+    "content": "Sicherheit geht vor: Der Deckel des Mixbehälters muss fest verschlossen sein, damit keine heißen Flüssigkeiten beim Mixen austreten können. Es besteht die Gefahr der Verbrühung! Wenn der Deckel nicht ordnungsgemäß verriegelt wurde, erscheint ein Info-Dialog auf dem Bildschirm und das Gerät kann nicht gestartet werden bzw. unterbricht die Zubereitung."
+  },
+  {
+    "title": "Warum passt der Topf nicht in die Basis?",
+    "content": "Bitte prüfen Sie, ob der Topf richtig herum eingesetzt wird. Das Topf-Symbol auf dem Mixbehälter muss nach vorne zeigen (s. Bedienungsanleitung Mixbehälter verwenden -> Mixbehälter einsetzen). Die Pins unter dem Mixbehälter müssen in die vorgesehenen Öffnungen eingesetzt werden."
+  },
+  {
+    "title": "Warum lässt sich das Gerät nicht einschalten?",
+    "content": "Bitte prüfen Sie, ob der Netzstecker ordnungsgemäß in die Steckdose eingesteckt wurde. Betätigen Sie anschließend den EIN/AUS-Schalter auf der rechten Seite des Gerätes."
+  },
+  {
+    "title": "Warum kann die Geschwindigkeit nicht höher als Stufe 3 eingestellt werden?",
+    "content": "Bei einer Temperatureinstellung von über 37 °C kann die Geschwindigkeit nur bis Stufe 3 eingestellt werden."
+  },
+  {
+    "title": "Warum kann ich durch Betätigen der Taste START den Vorgang pausieren lassen?",
+    "content": "Durch die Nutzung dieser Funktion können Sie z. B. weitere Zutaten durch die Einfüllöffnung hinzugeben, ohne dass das Automatikprogramm oder die eingestellte Funktion unterbrochen wird."
+  },
+  {
+    "title": "Wie kann ich einen verfärbten Deckel wieder reinigen?",
+    "content": "Bei der Verarbeitung von stark färbenden Lebensmitteln wie Möhren, Brokkoli, Kürbis, Curry, Kurkuma usw. kann es zu einer Verfärbung des Deckels kommen. Das ist kein Materialfehler und ist gesundheitlich unbedenklich.\nUm Verfärbungen des Deckels vorzubeugen, empfiehlt es sich, das Deckelinnere dünn mit Öl einzureiben. Ist der Deckel bereits verfärbt, hilft es, den Deckel vor der Reinigung mit Öl einzureiben, da viele Naturfarbstoffe fettlöslich sind. Bei starker Verfärbung hilft es, den Deckel für einige Zeit ins Sonnenlicht zu legen. Mit der Zeit verblasst die Verfärbung."
+  },
+  {
+    "title": "Warum riecht das Gerät?",
+    "content": "Wenn der Motor des Gerätes schwer arbeiten muss - zum Beispiel bei der Zubereitung von schweren Teigen - verursacht die durch den Motor erzeugte Wärme Geruch. Dies ist kein Grund zur Beunruhigung, der Geruch ist völlig unbedenklich! Gönnen Sie dem Gerät eine Pause und lassen Sie es circa 30 Minuten abkühlen, bevor Sie weitermachen."
+  },
+  {
+    "title": "Warum läuft der Motor teilweise unregelmäßig?",
+    "content": "Um ein gutes Mixverhältnis zu erreichen, läuft der Motor auf den unteren Stufen unrund.\nBei den Automatikprogrammen ist dies vorgegeben.\nSollte eine Überlastung vorliegen, so gönnen Sie dem Gerät  eine Pause und lassen Sie es circa 30 Minuten abkühlen, bevor Sie weitermachen."
+  },
+  {
+    "title": "Warum tritt beim Mixen bzw. bei der Benutzung aus dem Gerät Flüssigkeit aus?",
+    "content": "Kontrollieren Sie, ob der Deckel ordnungsgemäß verschlossen wurde. Wenn die Deckeldichtung oder die Dichtung unterhalb des Messers nicht eingesetzt ist, kann es zum Austreten von Flüssigkeit kommen. Setzen Sie die Dichtung ein und kontrollieren Sie den korrekten Sitz. Beschädigte Dichtungen müssen ersetzt werden. Das Gerät darf bis dahin nicht betrieben werden!"
+  },
+  {
+    "title": "Wie schalte ich das Gerät aus?",
+    "content": "Um das Gerät vollständig vom Netz zu trennen, betätigen Sie den EIN/AUS-Schalter auf der rechten hinteren Seite des Gerätes. Um das Gerät komplett stromlos zu machen, ziehen Sie den Netzstecker aus der Steckdose."
+  },
+  {
+    "title": "Warum ist mein Bildschirm nach einigen Minuten aus / schwarz?",
+    "content": "Das geschieht, um Strom zu sparen. Der Monsieur Cuisine connect geht nach einigen Minuten der Nicht-Benutzung automatisch in den Standby-Modus. Dies wird vorher im Bildschirm angekündigt. Das Gerät verbraucht in diesem Zustand weniger, ist jedoch jederzeit sofort einsatzbereit."
+  },
+  {
+    "title": "Wie bekomme ich mein Gerät aus dem Standby-Modus? (Wie wecke ich mein Gerät auf?)",
+    "content": "Der Monsieur Cuisine connect lässt sich ganz einfach durch Drücken oder Drehen des Drehreglers wieder aufwecken / aktivieren."
+  },
+  {
+    "title": "Warum funktioniert das Dampfgaren nicht?",
+    "content": "Überprüfen Sie, ob der Dampfaufsatz korrekt verriegelt ist und die Dampfgarfunktion eingeschaltet ist. Diese wird über das Basis-/Automatikprogramm ausgewählt und dann durch Betätigen der Taste START gestartet (s. Bedienungsanleitung Kapitel Dampfgaren). Zuerst wird mit einer Aufheizphase von 10 Minuten gestartet, damit das Gerät die benötigte Temperatur erreichen kann. Erst danach folgt der Dampfgarprozess.  Prüfen Sie, ob sich ausreichend Flüssigkeit im Mixbehälter befindet."
+  },
+  {
+    "title": "Wie wird die Turbo-Funktion gestartet?",
+    "content": "Die Funktion kann nur durch Gedrückthalten des Symbols TURBO aktiviert werden. Drücken Sie das Symbol TURBO auf dem Bildschirm und halten es für einige Sekunden gedrückt. Sobald Sie das Symbol loslassen, stoppt das Gerät. Wiederholen Sie den Vorgang, falls die gewünschte Konsistenz noch nicht erreicht ist."
+  },
+  {
+    "title": "Warum arbeitet die Turbo-Funktion nicht?",
+    "content": "Die Auswahlfunktion TURBO funktioniert nur:\n- wenn das Gerät bereits gestartet ist;\n- wenn kein Automatikprogramm ausgewählt ist;\n- wenn die Lebensmitteltemperatur unter 60 °C liegt."
+  },
+  {
+    "title": "Welche Teile dürfen in die Spülmaschine?",
+    "content": "Bis auf das Grundgerät sind alle Teile spülmaschinengeeignet.\nEntnehmen Sie immer das Messer aus dem Mixbehälter und nehmen Sie die Dichtungen ab. Legen Sie alles separat in den Geschirrspüler."
+  },
+  {
+    "title": "Wann ist ein Neutstart notwendig?",
+    "content": "Ist Ihr Gerät eingeschaltet und reagiert nicht oder es lassen sich keine Einstellungen vornehmen, ist ein Neustart nötig.\nSchalten Sie dazu den EIN/AUS-Schalter rechts am Gerät auf 0 und warten Sie 30 Sekunden. Danach schalten Sie den EIN/AUS-Schalter wieder auf I, um das Gerät einzuschalten."
+  },
+  {
+    "title": "Warum muss ich mein Gerät mit dem WLAN verbinden?",
+    "content": "Die WLAN-Verbindung ist KEIN MUSS. Allerdings haben Sie mit einer WLAN-Verbindung Zugriff auf alle unsere weiteren Rezepte für den Monsieur Cuisine connect."
+  },
+  {
+    "title": "Keine WLAN-Verbindung. Woran liegt das?",
+    "content": "Bitte prüfen Sie, ob Ihr WLAN-Router eingeschaltet ist, ein Signal sendet und sich die Geräte verbunden haben (s. Bedienungsanleitung Kapitel WLAN-Verbindung aufbauen und Störungen, Ursache, Beseitigung).\nÜberprüfen Sie die Einstellungen am Gerät."
+  },
+  {
+    "title": "Wie verbinde ich das Gerät mit dem WLAN?",
+    "content": "Bitte folgen Sie der Anleitung im Kapitel WLAN-Verbindung aufbauen in der Bedienungsanleitung."
+  },
+  {
+    "title": "Was passiert, wenn ich das Gerät nicht mit dem WLAN verbinde? Habe ich Nachteile, wenn mein Gerät nicht mit dem WLAN verbunden ist?",
+    "content": "Der Monsieur Cuisine connect funktioniert auch ohne WLAN-Verbindung einwandfrei. Sie haben vollen Zugriff auf alle im Gerät gespeicherten Rezepte."
+  },
+  {
+    "title": "Wie bekomme ich neue Rezepte auf mein Gerät?",
+    "content": "Wenn Sie das Gerät mit dem WLAN verbinden, haben Sie Zugriff auf unsere gesamten Rezepte für den Monsieur Cuisine connect."
+  },
+  {
+    "title": "Warum sollte ich Updates zulassen?",
+    "content": "Updates werden benötigt, um das Gerät auf den neusten Stand zu bringen, damit Sie von allen Verbesserungen bzw. Erneuerungen profitieren."
+  },
+  {
+    "title": "Welche Vorteile bringt es, sich mit dem Benutzerkonto am Gerät anzumelden?",
+    "content": "Mit Anmeldung am Gerät über Ihr Benutzerkonto bietet sich z. B. die Möglichkeit, Ihre Lieblingsrezepte (Favoriten) abzurufen und weitere hinzuzufügen."
+  },
+  {
+    "title": "Welche Abkürzungen werden auf dem Gerät verwendet?",
+    "content": "cm\tZentimeter\nE\tEiweiß\nEl\tEsslöffel\nF\tFett\nFP\tFertigprodukt\ng\tGramm\nkcal\tKilokalorien\nkg\tKilogramm\nKH\tKohlenhydrate\nkJ\tKilojoule\nl\tLiter\nMin.\tMinuten\nml\tMilliliter\nMsp.\tMesserspitze\nP.\tPäckchen\nStd.\tStunden\nTK\tTiefkühlprodukt\nTl\tTeelöffel"
+  }
+]

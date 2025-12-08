@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_large_middle"
+        android:textColor="@color/preset_text_deactivated"
+        android:id="@+id/item_ingredient_header_tv"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/recipe_values_top_margin"
+        android:text="@string/ingredients"
+        android:textAllCaps="true"/>
+    <view.QuicksandTextView
+        android:textSize="@dimen/text_large_middle"
+        android:textColor="@color/preset_text_deactivated"
+        android:id="@+id/item_ingredient_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/recipe_values_top_margin"
+        android:layout_marginBottom="8dp"
+        android:maxWidth="860dp"
+        android:textAllCaps="true"/>
+    <View
+        android:id="@+id/item_ingredient_header_divider_v"
+        android:background="@color/text_white"
+        android:layout_width="860dp"
+        android:layout_height="1dp"/>
+</LinearLayout>

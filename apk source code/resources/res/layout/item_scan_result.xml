@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/item_scan_result_container_ll"
+    android:background="@drawable/shape_settings_rectangle_not_rounded"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:weightSum="9"
+    android:paddingStart="16dp"
+    android:paddingEnd="4dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="8">
+        <view.QuicksandTextView
+            android:textSize="24sp"
+            android:id="@+id/ssid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <view.QuicksandTextView
+            android:textSize="12sp"
+            android:id="@+id/capabilities"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <ImageView
+        android:layout_gravity="end|center_vertical"
+        android:id="@+id/wifi_is_secured"
+        android:layout_width="18dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/asset_008_block_wifi"
+        android:layout_weight="1"/>
+</LinearLayout>
