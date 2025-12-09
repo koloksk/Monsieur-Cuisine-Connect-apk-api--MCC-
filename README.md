@@ -1,6 +1,6 @@
 # Monsieur Cuisine Connect - Dokumentacja API
 
-Dokumentacja endpointów API dla aplikacji Monsieur Cuisine Connect (MCC).
+Dokumentacja endpointów API dla aplikacji Monsieur Cuisine Connect (MCC) (Lidlomix).
 
 ## Bazowe URL
 
